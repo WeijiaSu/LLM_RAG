@@ -1,0 +1,593 @@
+MGI - Genetic sequencing and multi-omics solutions for life science and healthcare research official website
+Data Security
+Contact Us
+Join Us
+Select
+China-中文
+English-English
+North America-English
+Europe and Africa-English
+Japan-日本語
+Learn  More
+Products
+Sequencer Products: SEQ ALL
+Genetic Sequencers
+Sequencing Reagents
+Library Prep Kits
+mIF Staining Set
+Bioinformatics Analysis
+Lab Automation Products
+Sample Pretreatment Products
+Sample Preparation Platforms
+Integrated Testing Platforms
+Novel Products
+STOmics Products
+Cell Omics Products
+Ultrasound Products
+BIT Products
+Sample Storage Products
+MGI iLab
+All Products
+View All Products
+Request Quote
+DNBSEQ Sequencers
+T Series
+DNBSEQ-T20×2
+DNBSEQ-T10×4RS
+DNBSEQ-T7
+G Series
+DNBSEQ-G400
+DNBSEQ-G400RS FluoXpert
+DNBSEQ-G99
+DNBSEQ-G50
+E Series
+DNBSEQ-E25
+CycloneSEQ Sequencers
+WT Series
+CycloneSEQ-WT02
+All
+Genetic Sequencers
+Sequencing Reagents
+T Series
+DNBSEQ-T20×2 Sequencing Set
+DNBSEQ-T10×4 Sequencing Set
+DNBSEQ-T7 Sequencing Set
+G Series
+DNBSEQ-G400 Sequencing Set
+DNBSEQ-G400 Sequencing Set (Rapid)
+DNBSEQ-G50 Sequencing Set (Rapid)
+DNBSEQ-G99 Sequencing Set
+E Series
+DNBSEQ-E25 Sequencing Set
+All
+Genetic Sequencers
+Library Prep Kits
+Universal Library Prep Kits
+DNA Sequencing
+RNA Sequencing
+Whole Exome Sequencing
+Methylation Sequencing
+stLFR Sequencing
+Modularized Library Prep Kits
+DNA Adapters
+DNA Clean Beads
+Circularization Kit
+Dual Barcode Circularization Kit
+ATOPlex Library Prep Kits
+Customized Platform
+RNA Library Prep Kits V2.1
+RNA Library Prep Kits V3.1
+Respiratory Microorganisms Genome
+Single-cell Library Prep Kits
+DNBelab C Series High-throughput Single-cell RNA Series Library Preparation Set
+All
+Genetic Sequencers
+mIF Staining Set
+Multiplex Immunofluorescence Reagent
+FluoXpert Multiplex Immunofluorescence Staining Set
+Bioinformatics Analysis
+MegaBOLT
+MegaBOLT Bioinformatics Analysis Accelerator Series
+Sample Pretreatment Products
+Sample Transfer Platform
+MGISTP-3000
+MGISTP-7000
+Sample Collection Kit
+Stool Sample Collection
+Saliva Sample Collection
+Tissue Storage Reagent
+Nucleic Acid Extraction Platform
+MGISP-NEX
+MGISP-NE32
+MGISP-NE384
+Nucleic Acid Extraction Kit
+Genomics DNA Extraction
+Virus DNA/ RNA Extraction
+Circulating DNA Extraction
+Total RNA Extraction
+Tissue Grinding Beads
+RNase A
+Magnetic Beads
+Carboxyl Magnetic Beads TQ01
+Silicon Hydroxyl Magnetic Beads NEOH3000Ⅰ
+Silicon Hydroxyl Magnetic Beads NEOH400 Ⅲ
+Silicon Hydroxyl Magnetic Beads NEOH250 Ⅲ
+All
+Genetic Sequencers
+Sample Preparation Platforms
+Digital Sample Preparation Platform
+DNBelab-D4
+Automated Sample Preparation Platform
+MGISP-Smart 8
+MGISP-100
+MGISP-960
+MGIFLP-L
+Automated Customization Platform
+MGIGLab-L
+AlphaTool
+All
+Genetic Sequencers
+Integrated Testing Platforms
+Modular Sequencing Workstation
+MGIFLP-L50
+STOmics Products
+STOmics Product Solution
+Stereo-seq Transcriptomics Solution v1.3 (standard version)
+Stereo-CITE Proteo-Transcriptomics Solution
+Stereo-seq OMNI for FFPE Solution
+Stereo-seq Large Chip Design ( LCD, bespoke version )
+Stereo-seq Transcriptomics mIF Solution
+Stereo-seq Visualization Reagent
+DNBSEQ-T7RS Stereo-seq Visualization Reagent Set
+DNBSEQ-G400RS Stereo-seq Visualization Reagent Set
+All
+Genetic Sequencers
+Single-Cell Products
+DNBelab C Series
+Single-cell RNA Series Library Preparation Set V3.0
+Single-cell 5' RNA & V(D)J Library Preparation Set
+DNBelab C-TaiM 4 Automated Single-cell Droplet Generator
+All
+Genetic Sequencers
+Ultrasound Products
+Ultrasound System
+MGIUS-R3
+5G Robotic Ultrasound Vehicle
+All
+Genetic Sequencers
+BIT Products
+Management system
+ZLIMS
+ZSM
+Software & Hardware Integrated Machine
+ZTRON Appliance
+All
+Genetic Sequencers
+Sample Storage Products
+LT Series
+MGICLab-LT Series
+LN Series
+MGICLab-LN55K Pro
+MGICLab-LN55K
+All
+Genetic Sequencers
+MGI iLab
+Microneedling Product
+Bloomics® Disposable Capillary Blood Collection System
+All Products
+View All Products
+All Sequencer Products
+All Lab Automation Products
+All Novel Products
+All Package Products
+Explore All Products
+Recommended for you
+CycloneSEQ-WT02: Nano Gates to the Macro Cosmos!
+T7 Sequencing Kits: Designed for DNA or RNA sequencing on DNBSEQ-T7RS.
+ATOPlex: Providing panel design and synthetise based on ultra-high plex PCR technology.
+FluoXpert Multiplex Immunofluorescence Staining Set
+MegaBOLT: Hardware accelerating system for bioinformatics analysis.
+MGIEasy Circulating DNA Extraction Kit: High extraction efficiency
+DNBelab-D4: Fully enclosed Library Prep, One Cartridge for All Steps
+MGIFLP-L50: New Sequencing Paradigm, All-IN-FLP.
+Stereo-seq Transcriptomics Solution v1.3: Level-up spatial whole transcriptome solution
+Single-cell RNA Library Preparation Set V3.0: Sensitive detection of genes, 1-4 samples per run to choose from flexibly.
+R3: Breakthrough with the integration of robotics, teleoperation and ultrasound imaging technology.
+ZTRON: Promote your Million-scale Genome Project with a Pb-level Sequencing Data Centre.
+MGICLab-LN55K Pro: Meeting the deep low-temperature storage requirements.
+Bloomics®: Anytime, Anywhere, Virtually Painless Blood Collection
+MGI's full automation product portfolio
+All Extraction Kits
+Technologies & Applications
+Technologies
+Applications
+DNBSEQ Technology
+CycloneSEQ Technology
+Stereo-seq Technology
+Population Genomics
+Spatial Temporal Omics
+Cell Omics
+Agricultural Genomics
+Monkey Pox Virus (MPXV) Sequencing
+Non-invasive Prenatal Paternity Testing
+Resources
+Online Resources
+Data Bulletins
+Service & Support
+Documents
+Videos
+Publications
+Webinars
+Certificate of Analysis (COA)
+Safety Data Sheets (SDS)
+Demo Data
+On-demand Service
+Customer Experience Center (CEC)
+Product FAQs
+Submit Installation Requests
+Submit PM Requests
+Submit Repair Requests
+About MGI
+Introduction
+Newsroom
+Doing Business With Us
+Creative Club
+About MGI
+Honors
+Historys
+MGI News
+Statement
+Contact Us
+Distributors
+Suppliers
+DCS Lab
+Explore Q40
+What if Campaign
+GU Webinar
+MGI Facts
+Future of Omics
+MMHP
+投资者关系
+Select
+China-中文
+English-English
+North America-English
+Europe and Africa-English
+Japan-日本語
+China-中文
+English-English
+Americas-English
+Europe and Africa-English
+Japan-日本語
+Learn  More
+Products
+Sequencer Products: SEQ ALL
+Genetic Sequencers
+DNBSEQ Sequencers
+T Series
+DNBSEQ-T20×2
+DNBSEQ-T10×4RS
+DNBSEQ-T7
+G Series
+DNBSEQ-G400
+DNBSEQ-G400RS FluoXpert
+DNBSEQ-G99
+DNBSEQ-G50
+E Series
+DNBSEQ-E25
+CycloneSEQ Sequencers
+WT Series
+CycloneSEQ-WT02
+Sequencing Reagents
+Sequencing Reagents
+T Series
+DNBSEQ-T20×2 Sequencing Set
+DNBSEQ-T10×4 Sequencing Set
+DNBSEQ-T7 Sequencing Set
+G Series
+DNBSEQ-G400 Sequencing Set
+DNBSEQ-G400 Sequencing Set (Rapid)
+DNBSEQ-G50 Sequencing Set (Rapid)
+DNBSEQ-G99 Sequencing Set
+E Series
+DNBSEQ-E25 Sequencing Set
+Library Prep Kits
+Library Prep Kits
+Universal Library Prep Kits
+DNA Sequencing
+RNA Sequencing
+Whole Exome Sequencing
+Methylation Sequencing
+stLFR Sequencing
+Modularized Library Prep Kits
+DNA Adapters
+DNA Clean Beads
+Circularization Kit
+Dual Barcode Circularization Kit
+ATOPlex Library Prep Kits
+Customized Platform
+RNA Library Prep Kits V2.1
+RNA Library Prep Kits V3.1
+Respiratory Microorganisms Genome
+Single-cell Library Prep Kits
+DNBelab C Series High-throughput Single-cell RNA Series Library Preparation Set
+mIF Staining Set
+mIF Staining Set
+Multiplex Immunofluorescence Reagent
+FluoXpert Multiplex Immunofluorescence Staining Set
+Bioinformatics Analysis
+Bioinformatics Analysis
+MegaBOLT
+MegaBOLT Bioinformatics Analysis Accelerator Series
+Lab Automation Products
+Sample Pretreatment Products
+Sample Pretreatment Products
+Sample Transfer Platform
+MGISTP-3000
+MGISTP-7000
+Sample Collection Kit
+Stool Sample Collection
+Saliva Sample Collection
+Tissue Storage Reagent
+Nucleic Acid Extraction Platform
+MGISP-NEX
+MGISP-NE32
+MGISP-NE384
+Nucleic Acid Extraction Kit
+Genomics DNA Extraction
+Virus DNA/ RNA Extraction
+Circulating DNA Extraction
+Total RNA Extraction
+Tissue Grinding Beads
+RNase A
+Magnetic Beads
+Carboxyl Magnetic Beads TQ01
+Silicon Hydroxyl Magnetic Beads NEOH3000Ⅰ
+Silicon Hydroxyl Magnetic Beads NEOH400 Ⅲ
+Silicon Hydroxyl Magnetic Beads NEOH250 Ⅲ
+Sample Preparation Platforms
+Sample Preparation Platforms
+Digital Sample Preparation Platform
+DNBelab-D4
+Automated Sample Preparation Platform
+MGISP-Smart 8
+MGISP-100
+MGISP-960
+MGIFLP-L
+Automated Customization Platform
+MGIGLab-L
+AlphaTool
+Integrated Testing Platforms
+Integrated Testing Platforms
+Modular Sequencing Workstation
+MGIFLP-L50
+Novel Products
+STOmics Products
+STOmics Products
+STOmics Product Solution
+Stereo-seq Transcriptomics Solution v1.3 (standard version)
+Stereo-CITE Proteo-Transcriptomics Solution
+Stereo-seq OMNI for FFPE Solution
+Stereo-seq Large Chip Design ( LCD, bespoke version )
+Stereo-seq Transcriptomics mIF Solution
+Stereo-seq Visualization Reagent
+DNBSEQ-T7RS Stereo-seq Visualization Reagent Set
+DNBSEQ-G400RS Stereo-seq Visualization Reagent Set
+Cell Omics Products
+Single-Cell Products
+DNBelab C Series
+Single-cell RNA Series Library Preparation Set V3.0
+Single-cell 5' RNA & V(D)J Library Preparation Set
+DNBelab C-TaiM 4 Automated Single-cell Droplet Generator
+Ultrasound Products
+Ultrasound Products
+Ultrasound System
+MGIUS-R3
+5G Robotic Ultrasound Vehicle
+BIT Products
+BIT Products
+Management system
+ZLIMS
+ZSM
+Software & Hardware Integrated Machine
+ZTRON Appliance
+Sample Storage Products
+Sample Storage Products
+LT Series
+MGICLab-LT Series
+LN Series
+MGICLab-LN55K Pro
+MGICLab-LN55K
+MGI iLab
+MGI iLab
+Microneedling Product
+Bloomics® Disposable Capillary Blood Collection System
+All Products
+View All Products
+All Products
+View All Products
+All Sequencer Products
+All Lab Automation Products
+All Novel Products
+All Package Products
+Technologies & Applications
+Technologies
+DNBSEQ Technology
+CycloneSEQ Technology
+Stereo-seq Technology
+Applications
+Population Genomics
+Spatial Temporal Omics
+Cell Omics
+Agricultural Genomics
+Monkey Pox Virus (MPXV) Sequencing
+Non-invasive Prenatal Paternity Testing
+Resources
+Online Resources
+Documents
+Videos
+Publications
+Webinars
+Data Bulletins
+Certificate of Analysis (COA)
+Safety Data Sheets (SDS)
+Demo Data
+Service & Support
+On-demand Service
+Customer Experience Center (CEC)
+Product FAQs
+Submit Installation Requests
+Submit PM Requests
+Submit Repair Requests
+About MGI
+Introduction
+About MGI
+Honors
+Historys
+Newsroom
+MGI News
+Statement
+Doing Business With Us
+Contact Us
+Distributors
+Suppliers
+Creative Club
+DCS Lab
+Explore Q40
+What if Campaign
+GU Webinar
+MGI Facts
+Future of Omics
+MMHP
+Contact Us
+Join Us
+Data Security
+Product Center
+Sequencer Products
+Lab Automation Products
+Novel Products
+Product News
+2024-09-18
+MGI Tech Partners with Dasa to Enhance Health Diagnosis with Genetic Sequencing in Brazil
+2024-09-12
+MGI Tech and Genoox Join Forces to Enhance Precision Genomics Across Asia Pacific
+2024-09-11
+MGI Tech Unveils its SEQ ALL landscape at the Future of Omics Conference
+All News
+2024-09-10
+MGI Tech and HKSTP Signed Strategic Partnership Agreement to Forge World-class Life Science Innovation Ecosystem
+2024-09-09
+MGI Tech Acquires Global Rights to Commercialize and Distribute Advanced CycloneSEQ Technology
+2024-09-06
+MGI Tech and Indonesia's National Research and Innovation Agency (BRIN) Reach Consensus of Collaboration to Promote Seaweed Biodiversity
+All News
+2024-08-27
+New Strain of Mpox Emerges: MGI Tech’s Pathogen Sequencing Solutions at the Forefront
+2024-08-23
+MGI Tech Enhances Data Security at Latvian and German Facilities with ISO/IEC Certifications
+2024-08-16
+MGI Tech Honored with Red Dot Design Award for High-throughput Sequencer DNBSEQ-T20×2
+All News
+2024-08-02
+Interview with Shabangu Ntji: I foresee the large-scale adoption of sequencing technology advancing Africa in ways it was never envisioned
+2024-08-02
+MGI Tech Launches Human Microbiome Metagenomics Sequencing Package, Unveiling the Mysteries of the Human Microbiome
+2024-08-01
+MGI Tech Partners with UNALM and Inca Tops to Enhance Alpaca Fiber and Strengthen Peru's Textile Industry
+All News
+2024-07-26
+MGI and HKBU Collaborate on Advanced Sequencing Technology to Combat Doping in Sports
+2024-07-19
+Interview with Field Service Engineers of the Genomics Thailand Initiative: Advancing Genomics in Thailand with MGI
+2024-07-17
+Elite Controllers：Do their genomes hold the key to curing HIV?
+All News
+Product Center
+Sequencer Products
+Lab Automation Products
+Novel Products
+Application Center
+Cell Omics
+Population Genomics
+Spatial Temporal Omics
+Forensic Genomics
+Agricultural Genomics
+SARS-CoV-2
+Application Center
+Agricultural Genomics
+Explore More Applications
+Cell Omics
+Population Genomics
+Spatial Temporal Omics
+Agricultural Genomics
+The Power of Innovation in Genomics
+Customer Stories
+2024-06-17
+MGI Tech and SeqOne Partner to Advance End-to-end Genomic Analysis
+Read Article
+MGI News
+2024-05-31
+MGI Tech’s DNBSEQ-E25 and G99 Platforms Set Record for Sequencing Applications at High Altitude
+Read Article
+Customer Stories
+2024-02-06
+As a new Core Lab under the Million Microbiomes from Humans Project, MGI empowers INRAE MetaGenoPolis in“Le microbiote français - Le French Gut”project to Propel Metagenomics Research.
+Read Article
+View More
+About MGI
+MGI Tech Co., Ltd.  (or its subsidiaries, together referred to MGI), is committed to building core tools and technologies that drive innovation in life science. Our focus lies in research & development, manufacturing, and sales of instruments, reagents, and related products in the field of life science and biotechnology. We provide real-time, multi-omics, and full spectrum of digital equipment and systems for precision medicine, agriculture, healthcare and various other industries.
+Learn more
+2,670
+Employees
+32.16
+%
+R&D Personnel
+100
++
+Countries and Regions
+3,000
++
+Customers Worldwide
+Data updated to June 30, 2024
+Hotline (Global)
++86-4000-688-114
+Email
+MGI-service@mgi-tech.com
+Special Recommendations
+MGI Japan
+MGI North America
+MGI Europe and Africa
+*For research use only.
+Not for use in diagnostic procedures
+									(except as specifically noted).
+资讯订阅
+Products
+Sequencer Products
+Lab Automation Products
+Novel Products
+Applications
+Population Genomics
+Spatial Temporal Omics
+Cell Omics
+Resources
+SDS
+Demo Data
+Documents
+COA
+Support
+Service
+CEC
+Copyright © 2024 All Rights Reserved MGI Tech Co., Ltd.
+Guangdong ICP 16117185
+Privacy Policy
+Legal Notices
+Cookie Policy
+x
+Our use of cookies
+We would like to use necessary cookies to improve your browsing experience and the quality of our website. We would also like to set analytics cookies and advertisement cookies that help us make improvements by measuring how you use our website. Detailed information about the use of cookies on this website and how you can control your consent can be found in our
+Cookie Policy
+and
+Privacy Policy
+.
+Accept only strictly necessary  cookies
+Accept all cookies
