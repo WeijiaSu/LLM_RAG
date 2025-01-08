@@ -1,12 +1,14 @@
+from openai import OpenAI
 from openai import AsyncOpenAI
 import asyncio
 from datetime import datetime
+import os
 
 api_key = os.getenv("OPENAI_API_KEY")
 client = AsyncOpenAI(api_key=api_key)
 
 
-def chat_streaming(prompt, context):
+async def chat_streaming(prompt, context):
     # Construct the system prompt with context
     system_prompt = f"""
     You are an assistant trained to answer questions based on the following context:
@@ -19,8 +21,8 @@ def chat_streaming(prompt, context):
     """
 
     # Make the API call with streaming enabled
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
+    response = await client.chat.completions.create(
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": prompt},
@@ -30,12 +32,14 @@ def chat_streaming(prompt, context):
 
     # Print each token as it's received
     print("AI Response:")
-    for chunk in response:
-        print(chunk.choices[0].delta.get("content", ""), end="", flush=True)
+    async for chunk in response:
+        #print(chunk.choices[0].delta.get("content", ""), end="", flush=True)
+        print(chunk.choices[0].delta.content, end="", flush=True)
+
     print("\n")  # Add a newline after the response
 
 
-def main():
+async def main():
     with open("train.text", "r") as file:
         context = file.read()
 
@@ -45,7 +49,7 @@ def main():
         if user_input.lower() in ["exit", "quit"]:
             print("Goodbye!")
             break
-        chat_streaming(user_input, context)
+        await chat_streaming(user_input, context)
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
